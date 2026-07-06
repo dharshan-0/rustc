@@ -1,5 +1,0 @@
-[target.'cfg(all())']
-rustflags = [
-    "-Z", "unstable-options",
-    "--extern", "rustc_driver",
-]
